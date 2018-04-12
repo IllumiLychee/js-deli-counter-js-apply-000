@@ -3,6 +3,8 @@ var theLine = 0
 
 function takeANumber(katzDeliLine){
   return ++theLine
+  var number = ++theLine
+  katzDeliLine.push
 }
 
 
